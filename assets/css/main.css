@@ -37,6 +37,29 @@ header{
     width: 100%;
     background-size: cover;
 }
+
+
+.qaz{
+    height:38em;
+    width: 100%;
+    background-size: cover;
+}
+
+.qaz .overlay{
+    background-color:rgba(93, 14, 139, 0.83);
+    height:38em;
+    width: 100%;
+    background-size: cover;
+}
+.soco{
+    line-height: 40px;
+}
+
+.test{
+    background-color: #FCCE01;
+    height: 4em;
+    
+}
 .hr{
     position: absolute;
     transform: rotate(90deg);
@@ -50,6 +73,8 @@ header .overlay{
     height:50em;
     width: 100%;
 }
+
+
 header h1{
     font-size:47px;
 }
@@ -86,6 +111,10 @@ nav ul{
     list-style: none;
     display: inline;
 }
+.links{
+    margin-top: -40px !important;
+    margin-right: 40px !important;
+}
 .sociallinks i{
    border-radius: 50%;
    color:#4D0C73;
@@ -103,6 +132,8 @@ nav ul{
     background: #FCCE01;
     color:#4D0C73;
 }
+
+
 
 /* Power Section Rules */
 
@@ -152,6 +183,14 @@ nav ul{
 #feature h3{
     font-size: 23px;
     font-weight: bold;
+}
+
+.wow{
+    text-align: center;
+}
+
+.ijob{
+    margin-top: -3rem;
 }
 
 /* Partners Rule */
