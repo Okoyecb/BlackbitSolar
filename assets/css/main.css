@@ -485,9 +485,10 @@ img[alt=map]{
     }
 
     .soco{
-        font-size: 4vh;
+        font-size: 16px;
         text-align: center;
         margin-top: -1.5em;
+        margin-right: 30px;
 
     }
 
