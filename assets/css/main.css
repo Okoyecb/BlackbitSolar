@@ -483,19 +483,15 @@ img[alt=map]{
     }
 
     .soco{
-        font-size: 4vh;
-        /* margin-top: 1.5em; */
-        text-align: center;
+        font-size: 3vh;
+       text-align: center;
+       justify-content: center;
         line-height: 25px;
         margin-left: 40px !important;
 
     }
 
     .sociallinks{
-        margin-top: 10px !important;
-        margin-left: 45px;
-    }
-    .iqw{
-       margin-top: ;
+        display: none;
     }
 }
