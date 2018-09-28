@@ -1,2 +1,0 @@
-# BlackbitSolar
-BBsolar Website
