@@ -912,9 +912,9 @@ section p button img {
 .agileits_w3layouts_about_counter_left p {
     font-size: 3em;
     font-weight: bold;
-    color: #fff;
+    color: #333;
     margin: 0.5em 0 1em;
-    background: #066a9c;
+    background: #FCCE01;
     text-align: center;
     line-height: 1.9;
 }
